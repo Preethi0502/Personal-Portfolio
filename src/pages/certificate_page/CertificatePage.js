@@ -4,7 +4,7 @@ import Fade from "react-reveal/Fade";
 import ConferenceCertificate1 from "../../images/Conference Certificate-1.png";
 import CognibotCertificate1 from "../../images/PT-1 Cognibot Certificate-1.png";
 import AlgoxfusionCertificate1 from "../../images/PT-2 Algoxfusion Certificate-1.png";
-import PentagonSpaceCertificate1 from "../../images/SIST-2024-40110999-OL-Preethi. A (1)-1.png";
+import PentagonSpaceCertificate1 from "../../images/SIST-2024-40110999-OL-Preethi. A.png";
 import { HiArrowRight } from "react-icons/hi";
 import { Link } from "react-router-dom";
 
