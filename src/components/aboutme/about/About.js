@@ -28,36 +28,20 @@ const About = () => {
           <Col md={7}>
             <Fade duration={3000}>
               <p className="home-about-body">
-                My name is <b className="purple">MD Mafujul Hasan </b> 
-                  and I am a <b className="purple">Computer Science and Engineering </b> 
-                    student at <b className="purple">Sonargaon University </b>
-                      in Dhaka, Bangladesh.
+                Hey, I'm Preethi. I'm an aspiring software engineer with a passion for creating innovative solutions.
                 <br />
                 <br />
-                        I am proficient in various programming languages such as &nbsp;
-                  <b className="purple">
-                    {" "}
-                    C, C++, Java, Python, HTML, CSS, PHP, and JavaScript.{" "}
-                  </b>
+                As a BE (CSE) graduate from Sathyabama Institute of Science and Technology, 
+                I have a strong foundation in Java Full Stack Development, 
+                with project experience in blockchain, cloud storage security, AI, and web development.
                 <br />
                 <br />
-                I also have experience working with frameworks and libraries such as &nbsp;
-
-                  <b className="purple">
-                    {" "}
-                    NodeJS, ReactJS, OpenCV, Pandas, and NumPy.{" "}
-                  </b>
+                I'm proud to have been recognized at ICOECA 2024 for my blockchain research.
+                I also hold certifications in Flutter, Machine Learning, and Java Full Stack Development.
                 <br />
                 <br />
-                Whenever possible, I also apply my passion for developing
-                products with &nbsp;
-                  <b className="purple">
-                    {" "}
-                    Modern Javascript Library and Frameworks.
-                  </b>
-                <br />
-                <br />In my free time, I enjoy learning new technologies and &nbsp;
-                  <b className="purple">building new web technologies and products. </b>
+                I'm excited to kickstart my career and create impactful solutions that shape the future of innovation.
+                Feel free to explore my portfolio or connect with me to discuss opportunities!
               </p>
             </Fade>
           </Col>
